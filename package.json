@@ -1,14 +1,22 @@
 {
-  "name": "static-site",
+  "name": "read-me-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "To quickly generate a README file",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Jazmin Guerrero",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "8.2.4"
-  }
+    "inquirer": "^8.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jazgue/CH09-Read-me-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jazgue/CH09-Read-me-generator/issues"
+  },
+  "homepage": "https://github.com/jazgue/CH09-Read-me-generator#readme"
 }
